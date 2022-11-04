@@ -1,6 +1,6 @@
 # Projeto Rocketseat COPA
 
-![preview] (./github.mobile) (./github.desktop)
+![preview] (./github/mobile.png)
 
 > #### Trilha Explorer
 
