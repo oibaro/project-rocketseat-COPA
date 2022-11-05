@@ -1,6 +1,6 @@
 # Projeto Rocketseat
 
-![preview](./github/preview.png)
+![preview] (./github.mobile) (./github.desktop)
 
 > #### Trilha Explorer
 
