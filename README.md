@@ -1,16 +1,15 @@
-# Projeto Rocketseat COPA
+# Projeto Rocketseat
 
-![preview] (./github.mobile) (./github.desktop)
+![preview](./github/preview.png)
 
 > #### Trilha Explorer
 
-### Projeto construído no evento da Rocketseat.
+### Projeto construído no evento Next Level Next da Rocketseat.
 
-[Clique aqui para acessar](https://oibaro.github.io/project-rocketseat-COPA/)
+[Clique aqui para acessar](https://oibaro.github.io/rocketseat/)
 
 ## Tecnologias
 
 - HTML
 - CSS
 - Git e GitHub
-- Javascript
